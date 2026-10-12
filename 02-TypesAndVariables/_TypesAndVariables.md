@@ -531,9 +531,7 @@ stalj@uek.krakow.pl
     # A program that calculates
     # how many letters are between two given letters
     #
-    first = input('Enter first letter: ')
-    last = input(...)
-    first_letter_code = ord(first)
+    c
     ...
     number_of_letters = ...
     print(f'Between {first} and {last} is ... letters')
