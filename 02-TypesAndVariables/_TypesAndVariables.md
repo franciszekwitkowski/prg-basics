@@ -414,7 +414,7 @@ stalj@uek.krakow.pl
     ###
     # A program that calculates the number of characters
     # of your name, surname and full name
-    #
+    #cube_volume
     name = 'Anna'   # replace Anna with your name
     surname = 'May' # replace May with your surname
     characters_in_name = len(name)
